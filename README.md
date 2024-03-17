@@ -14,4 +14,3 @@ M. Midhun Reddy             99210041862@klu.ac.in
 B. Siva naga durga prasad   99210042097@klu.ac.in
 A. Nagendra Srinivas        99210041131@klu.ac.in
 J.Mohan Seshu               9921004281@klu.ac.in
-
