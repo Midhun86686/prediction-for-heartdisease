@@ -10,8 +10,6 @@ models based on such algorithms and techniques and analyze their performance. Mo
 Support Vector Machines (SVM), K-Nearest Neighbour (KNN), Decision Trees (DT), Random Forest (RF) and ensemble models are found 
 very popular among the researchers.
 # Team Details
-VH
-NAME                        EMAIL
 M. Midhun Reddy             99210041862@klu.ac.in
 B. Siva naga durga prasad   99210042097@klu.ac.in
 A. Nagendra Srinivas        99210041131@klu.ac.in
