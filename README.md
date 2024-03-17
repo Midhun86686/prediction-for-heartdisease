@@ -28,6 +28,8 @@ collected is very massive and, many a times, this data can be very
 noisy. These datasets, which are too overwhelming for human minds 
 to  comprehend,  can  be  easily  explored  using  various  machine 
 learning techniques. Thus, these algorithms have become very useful.
+![image](https://github.com/Midhun86686/prediction-for-heartdisease/assets/163621872/3df12faf-c477-406c-a980-3418137f5915)
+
 # Dimensionality Reduction
 Dimensionality  Reduction  involves  selecting  a  mathematical 
 representation such that one can relate the majority of, but not all, 
